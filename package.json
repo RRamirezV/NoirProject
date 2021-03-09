@@ -1,0 +1,20 @@
+{
+  "name": "utcae",
+  "version": "1.0.0",
+  "description": "Sistema de Titulacion para la Carrera de Administracion de Empresas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utcae"
+  ],
+  "author": "Guillermo Pizarro",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "multer": "^1.4.2"
+  }
+}
